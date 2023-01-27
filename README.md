@@ -5,3 +5,6 @@ The website has five sections and for this project we use only Deaths Section (H
 
 For the data exploration parts we create database and write queries by using sql server. The data visualization part is analyzed using tableau and shows some insights about the COVID-19.
 You can see the visualization using this link: <https://public.tableau.com/shared/ZWTD6QMMB?:display_count=n&:origin=viz_share_link>
+
+
+![Screenshot 2023-01-26 215303](https://user-images.githubusercontent.com/97622118/215090141-6235d2e4-7d27-430b-8e85-f72780f8018a.jpg)
